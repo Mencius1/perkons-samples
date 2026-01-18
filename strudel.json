@@ -1,0 +1,8 @@
+{
+  "pk_kick": "kick/*.wav",
+  "pk_snare": "snare/*.wav",
+  "pk_hihat": "hihat/*.wav",
+  "pk_perc": "perc/*.wav",
+  "pk_noise": "noise/*.wav",
+  "pk_texture": "texture/*.wav"
+}
